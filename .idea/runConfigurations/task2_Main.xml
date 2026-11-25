@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="task2.Main" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="task2.Main" />
+    <module name="Laba_5_Java" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
